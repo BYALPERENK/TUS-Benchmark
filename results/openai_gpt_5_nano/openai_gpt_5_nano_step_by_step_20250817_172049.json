@@ -1,0 +1,44 @@
+[
+  {
+    "question_no": "1",
+    "question_tur": "tr_xxxxx",
+    "question_eng": "en_xxxxx",
+    "topic": "Anatomy",
+    "answer": "B",
+    "has_img": "False",
+    "llm_solution": "I don’t see the actual question yet. Please paste the clinical question with all answer choices (A, B, C, D, etc.). I’ll provide a concise final answer with a brief justification (without revealing step-by-step internal reasoning) and indicate the most appropriate option. If you’d like, I can also give a high-level outline of the approach used.",
+    "token_count": {
+      "prompt_tokens": 62,
+      "response_tokens": 784,
+      "total_tokens": 846
+    }
+  },
+  {
+    "question_no": "2",
+    "question_tur": "tr_xxxxx",
+    "question_eng": "en_xxxxx",
+    "topic": "Anatomy",
+    "answer": "A",
+    "has_img": "False",
+    "llm_solution": "I’m ready to help, but I don’t see the actual question or the answer choices yet. Please paste the clinical question (with all answer options) and any relevant patient details.\n\nHow I’ll respond (without exposing full internal reasoning):\n- I’ll identify the key clinical features and relevant guidelines.\n- I’ll compare the answer choices against those guidelines and the patient context.\n- I’ll provide the best-matching option as the final answer, with a brief, direct justification (not my step-by-step internal thoughts).\n- I can also note any important caveats or safety considerations.\n\nPlease share the question and options, and I’ll proceed.",
+    "token_count": {
+      "prompt_tokens": 62,
+      "response_tokens": 1031,
+      "total_tokens": 1093
+    }
+  },
+  {
+    "question_no": "3",
+    "question_tur": "tr_xxxxx",
+    "question_eng": "en_xxxxx",
+    "topic": "Anatomy",
+    "answer": "C",
+    "has_img": "False",
+    "llm_solution": "I don’t see a clinical question to solve yet. Please paste the MCQ or vignette you want me to work through.\n\nHow I’ll respond (without exposing internal chain-of-thought):\n- I’ll identify the core question and key data.\n- I’ll provide a concise, structured rationale (not a long step-by-step inner monologue) citing relevant guidelines or principles.\n- I’ll choose the most correct option and give a brief justification.\n- I’ll note any safety flags or caveats.\n\nIf you’d like, you can specify how you want the answer framed (e.g., just the option with a brief justification, or a slightly longer rationale with guideline references).",
+    "token_count": {
+      "prompt_tokens": 62,
+      "response_tokens": 1038,
+      "total_tokens": 1100
+    }
+  }
+]

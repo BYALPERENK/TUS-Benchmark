@@ -1,0 +1,65 @@
+[
+    {
+        "question_no": "1",
+        "question_tur": "tr_xxxxx",
+        "question_eng": "en_xxxxx",
+        "topic": "Anatomy",
+        "answer": "B",
+        "has_img": "False",
+        "llm_solution": "This is a prompt instructing someone to carefully read a question, analyze it step by step, and choose the most correct answer while considering clinical implications and medical guidelines. Let me know if you'd like help with a specific question or any further explanation!",
+        "token_count": {
+            "prompt_tokens": 72,
+            "response_tokens": 52,
+            "total_tokens": 124
+        },
+        "llm_answer": "NOT CHOOSEN",
+        "evaluation_note": "No option selected",
+        "token_count_eval_mode": {
+            "prompt_tokens": 362,
+            "response_tokens": 23,
+            "total_tokens": 385
+        }
+    },
+    {
+        "question_no": "2",
+        "question_tur": "tr_xxxxx",
+        "question_eng": "en_xxxxx",
+        "topic": "Anatomy",
+        "answer": "A",
+        "has_img": "False",
+        "llm_solution": "I don't have enough context to accurately answer your request. Could you please provide the question you'd like me to consider?",
+        "token_count": {
+            "prompt_tokens": 72,
+            "response_tokens": 28,
+            "total_tokens": 100
+        },
+        "llm_answer": "NOT CHOOSEN",
+        "evaluation_note": "The answer indicates a lack of context and does not provide a specific option.",
+        "token_count_eval_mode": {
+            "prompt_tokens": 336,
+            "response_tokens": 34,
+            "total_tokens": 370
+        }
+    },
+    {
+        "question_no": "3",
+        "question_tur": "tr_xxxxx",
+        "question_eng": "en_xxxxx",
+        "topic": "Anatomy",
+        "answer": "C",
+        "has_img": "False",
+        "llm_solution": "Sure, here's the translated text:\n\n\n---\n\n{'name': 'step_by_step', 'text': 'Lees de vraag hieronder zorgvuldig, overweeg elk aspect stap voor stap en los het op. Overweeg alle mogelijkheden, houd rekening met de klinische implicaties en medische richtlijnen, en maak daarna de meest correcte keuze.'}\n\nnl_xxxxx",
+        "token_count": {
+            "prompt_tokens": 72,
+            "response_tokens": 98,
+            "total_tokens": 170
+        },
+        "llm_answer": "NOT CHOOSEN",
+        "evaluation_note": "No option selected",
+        "token_count_eval_mode": {
+            "prompt_tokens": 382,
+            "response_tokens": 23,
+            "total_tokens": 405
+        }
+    }
+]

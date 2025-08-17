@@ -1,0 +1,32 @@
+ai21/jamba-mini-1.7
+
+Short Prompt
+Final token statistics:
+Total prompt tokens: 102
+Total response tokens: 329
+Total combined tokens: 431
+
+Baseline Prompt
+Final token statistics:
+Total prompt tokens: 102
+Total response tokens: 59
+Total combined tokens: 161
+
+Step_By_Step Prompt
+Final token statistics:
+Total prompt tokens: 216
+Total response tokens: 178
+Total combined tokens: 394
+
+Teacher_Role Prompt
+Final token statistics:
+Total prompt tokens: 258
+Total response tokens: 317
+Total combined tokens: 575
+
+Self_Verification Prompt
+Final token statistics:
+Total prompt tokens: 429
+Total response tokens: 185
+Total combined tokens: 614
+

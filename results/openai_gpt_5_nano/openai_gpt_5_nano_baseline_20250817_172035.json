@@ -1,0 +1,44 @@
+[
+  {
+    "question_no": "1",
+    "question_tur": "tr_xxxxx",
+    "question_eng": "en_xxxxx",
+    "topic": "Anatomy",
+    "answer": "B",
+    "has_img": "False",
+    "llm_solution": "I don’t see the actual question to solve yet. You pasted a wrapper text but no problem statement.\n\nPlease paste the full question (including any given data, diagrams, or options). If you have preferences, tell me:\n- Do you want a step-by-step solution or just the final answer?\n- What level (high school, college) and any formatting requirements?\n\nIf helpful, you can use this template:\nQuestion: [paste problem here]\nShow work: yes/no\nAnswer format: final only / full steps",
+    "token_count": {
+      "prompt_tokens": 25,
+      "response_tokens": 558,
+      "total_tokens": 583
+    }
+  },
+  {
+    "question_no": "2",
+    "question_tur": "tr_xxxxx",
+    "question_eng": "en_xxxxx",
+    "topic": "Anatomy",
+    "answer": "A",
+    "has_img": "False",
+    "llm_solution": "It looks like the actual question isn’t present after \"Solve the question below.\" Please paste the full problem statement (or attach an image), including any given data, constraints, and what’s being asked.\n\nTips:\n- If there are multiple questions, include them all clearly.\n- For math problems, paste the exact equations or diagrams (text is fine).\n- If you want a step-by-step solution, say so; otherwise I can give a concise final answer.\n\nOnce you provide the question, I’ll solve it and show the steps.",
+    "token_count": {
+      "prompt_tokens": 25,
+      "response_tokens": 818,
+      "total_tokens": 843
+    }
+  },
+  {
+    "question_no": "3",
+    "question_tur": "tr_xxxxx",
+    "question_eng": "en_xxxxx",
+    "topic": "Anatomy",
+    "answer": "C",
+    "has_img": "False",
+    "llm_solution": "I can’t see the actual question. You wrote “Solve the question below.” but there’s no problem statement.\n\nPlease paste the full question (text or image), and let me know:\n- Are you looking for the final answer only or a step-by-step solution?\n- Any constraints or formats you want (brief, detailed, with formulas, etc.)?\n\nOnce you share the problem, I’ll solve it and explain the steps.",
+    "token_count": {
+      "prompt_tokens": 25,
+      "response_tokens": 477,
+      "total_tokens": 502
+    }
+  }
+]

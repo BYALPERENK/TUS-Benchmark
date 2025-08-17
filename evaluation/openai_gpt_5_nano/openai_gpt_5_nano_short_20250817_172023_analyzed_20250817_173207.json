@@ -1,0 +1,65 @@
+[
+    {
+        "question_no": "1",
+        "question_tur": "tr_xxxxx",
+        "question_eng": "en_xxxxx",
+        "topic": "Anatomy",
+        "answer": "B",
+        "has_img": "False",
+        "llm_solution": "Please provide the question or problem you want me to answer.",
+        "token_count": {
+            "prompt_tokens": 26,
+            "response_tokens": 402,
+            "total_tokens": 428
+        },
+        "llm_answer": "NOT CHOOSEN",
+        "evaluation_note": "No option selected",
+        "token_count_eval_mode": {
+            "prompt_tokens": 325,
+            "response_tokens": 23,
+            "total_tokens": 348
+        }
+    },
+    {
+        "question_no": "2",
+        "question_tur": "tr_xxxxx",
+        "question_eng": "en_xxxxx",
+        "topic": "Anatomy",
+        "answer": "A",
+        "has_img": "False",
+        "llm_solution": "I don’t have a question to answer. Please provide the problem or prompt you want solved, and I’ll give a concise, direct answer. If you want only the final result with no explanation, say “just the answer.”",
+        "token_count": {
+            "prompt_tokens": 26,
+            "response_tokens": 500,
+            "total_tokens": 526
+        },
+        "llm_answer": "NOT CHOOSEN",
+        "evaluation_note": "No question was provided to select an answer.",
+        "token_count_eval_mode": {
+            "prompt_tokens": 360,
+            "response_tokens": 28,
+            "total_tokens": 388
+        }
+    },
+    {
+        "question_no": "3",
+        "question_tur": "tr_xxxxx",
+        "question_eng": "en_xxxxx",
+        "topic": "Anatomy",
+        "answer": "C",
+        "has_img": "False",
+        "llm_solution": "I don’t have a question to answer. Please paste the problem or ask a specific question, and I’ll give a brief, one-line answer.",
+        "token_count": {
+            "prompt_tokens": 26,
+            "response_tokens": 612,
+            "total_tokens": 638
+        },
+        "llm_answer": "NOT CHOOSEN",
+        "evaluation_note": "No specific question was provided.",
+        "token_count_eval_mode": {
+            "prompt_tokens": 343,
+            "response_tokens": 25,
+            "total_tokens": 368
+        }
+    }
+]

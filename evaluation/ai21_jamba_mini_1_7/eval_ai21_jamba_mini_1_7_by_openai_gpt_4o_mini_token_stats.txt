@@ -1,0 +1,7 @@
+Source Model: ai21_jamba_mini_1_7
+Analyzer Model: openai/gpt-4o-mini
+
+Final token statistics:
+Total prompt tokens: 5659
+Total response tokens: 384
+Total combined tokens: 6043

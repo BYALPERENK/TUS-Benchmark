@@ -1,0 +1,7 @@
+Source Model: openai_gpt_5_nano
+Analyzer Model: openai/gpt-4o-mini
+
+Final token statistics:
+Total prompt tokens: 8455
+Total response tokens: 439
+Total combined tokens: 8894

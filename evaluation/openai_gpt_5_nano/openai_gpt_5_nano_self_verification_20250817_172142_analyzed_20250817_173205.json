@@ -1,0 +1,65 @@
+[
+    {
+        "question_no": "1",
+        "question_tur": "tr_xxxxx",
+        "question_eng": "en_xxxxx",
+        "topic": "Anatomy",
+        "answer": "B",
+        "has_img": "False",
+        "llm_solution": "I’m ready to do this, but I need the actual clinical question with its answer options. Please paste the full case stem (patient presentation, history, exam findings, labs/imaging if provided) and all answer choices (A, B, C, D, etc.). \n\nWhen you provide them, I will:\n- Systematically compare and contrast each option against the presentation, pathophysiology, and guideline-directed management.\n- Eliminate clearly incorrect choices using logical clinical reasoning.\n- Choose the best remaining option and give a concise, evidence-based justification (without exposing step-by-step internal reasoning, but with key points such as diagnostic reasoning, indications/contraindications, and guideline references).\n- Review the final answer for consistency with current medical knowledge and standard protocols, and revise if needed.\n\nNotes on style:\n- I’ll give a brief justification focused on the most clinically relevant points (not a transcript of my internal thought process).\n- I can reference widely accepted guidelines (e.g., ACC/AHA, NICE, ESC, CDC/ID for infections, etc.) as applicable to the case.\n- If you want, I can also provide a short outline of differential diagnoses and a brief management plan for the chosen option.\n\nPlease provide the question and options, and I’ll get started.",
+        "token_count": {
+            "prompt_tokens": 133,
+            "response_tokens": 1736,
+            "total_tokens": 1869
+        },
+        "llm_answer": "NOT CHOOSEN",
+        "evaluation_note": "No answer options provided in the question.",
+        "token_count_eval_mode": {
+            "prompt_tokens": 571,
+            "response_tokens": 27,
+            "total_tokens": 598
+        }
+    },
+    {
+        "question_no": "2",
+        "question_tur": "tr_xxxxx",
+        "question_eng": "en_xxxxx",
+        "topic": "Anatomy",
+        "answer": "A",
+        "has_img": "False",
+        "llm_solution": "I’m ready to do the systematic comparison and selection, but I don’t yet have the actual question and answer options. Please provide:\n\n- The full question stem\n- All answer choices (e.g., A, B, C, D, etc.)\n- Any accompanying data (labs, imaging, vitals) or figure described in the stem\n\nOnce I have that, I will:\n- Systematically compare all options (obvious and subtle differences in presentation, diagnosis, and treatment)\n- Eliminate incorrect options using logical clinical reasoning and up-to-date guidelines\n- Select the best remaining answer and justify it with specific medical rationale\n- Review the solution for consistency with current medical knowledge and standard protocols, and revise if needed\n\nIf you’d like, I can also provide a brief outline of the general approach I’ll use, so you know what to expect.",
+        "token_count": {
+            "prompt_tokens": 133,
+            "response_tokens": 1331,
+            "total_tokens": 1464
+        },
+        "llm_answer": "NOT CHOOSEN",
+        "evaluation_note": "No option selected; the response does not address the question directly.",
+        "token_count_eval_mode": {
+            "prompt_tokens": 486,
+            "response_tokens": 32,
+            "total_tokens": 518
+        }
+    },
+    {
+        "question_no": "3",
+        "question_tur": "tr_xxxxx",
+        "question_eng": "en_xxxxx",
+        "topic": "Anatomy",
+        "answer": "C",
+        "has_img": "False",
+        "llm_solution": "I’m ready to do this, but I don’t see the actual question or the list of answer choices. Please paste the full clinical vignette (if any) and all options (A, B, C, D, etc.). If there are labs, imaging findings, vital signs, patient age/sex, and relevant history, include them as well.\n\nOnce I have the question with options, I will:\n- Systematically compare and contrast each option, noting both obvious and subtle differences in clinical presentation, pathophysiology, diagnostic considerations, and treatment implications.\n- Build a concise differential diagnosis for each option and identify key data that would support or refute each one.\n- Apply current evidence-based guidelines and standard medical protocols to justify which option is most likely correct, and explain why the others are unlikely.\n- State the selected best answer with a clear, evidence-based rationale.\n- Perform a short self-check to confirm consistency with established medical knowledge and logical reasoning, and revise if needed.\n\nIf you’d like, I can also share the exact framework I’ll use (structure, criteria, and typical guidelines referenced) so you know how I’m approaching it.",
+        "token_count": {
+            "prompt_tokens": 133,
+            "response_tokens": 1263,
+            "total_tokens": 1396
+        },
+        "llm_answer": "NOT CHOOSEN",
+        "evaluation_note": "No option selected; the response requests additional information to answer the question.",
+        "token_count_eval_mode": {
+            "prompt_tokens": 546,
+            "response_tokens": 33,
+            "total_tokens": 579
+        }
+    }
+]

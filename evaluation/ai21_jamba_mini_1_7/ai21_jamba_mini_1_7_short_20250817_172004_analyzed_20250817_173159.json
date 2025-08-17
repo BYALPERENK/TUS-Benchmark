@@ -1,0 +1,65 @@
+[
+    {
+        "question_no": "1",
+        "question_tur": "tr_xxxxx",
+        "question_eng": "en_xxxxx",
+        "topic": "Anatomy",
+        "answer": "B",
+        "has_img": "False",
+        "llm_solution": "The answer is: 'short'.",
+        "token_count": {
+            "prompt_tokens": 34,
+            "response_tokens": 8,
+            "total_tokens": 42
+        },
+        "llm_answer": "NOT CHOOSEN",
+        "evaluation_note": "No option selected",
+        "token_count_eval_mode": {
+            "prompt_tokens": 321,
+            "response_tokens": 23,
+            "total_tokens": 344
+        }
+    },
+    {
+        "question_no": "2",
+        "question_tur": "tr_xxxxx",
+        "question_eng": "en_xxxxx",
+        "topic": "Anatomy",
+        "answer": "A",
+        "has_img": "False",
+        "llm_solution": "In statistics, describing the relation between the sets $\\text{A}$ and $\\text{B}$, we can use the following logic:\n\n- If $\\text{X}$ is a subset of $\\text{A'B'}$, then $\\text{X}$ is **completely outside** (does not overlap) $\\text{A}$ and $\\text{B}$.\n- If $\\text{X}$ is a subset of $\\text{B'}$, then $\\text{X}$ does not overlap with $\\text{B}$, but may overlap with $\\text{A}$.\n- If $\\text{X}$ is a subset of $\\text{A'}$, then $\\text{X}$ does not overlap with $\\text{A}$, but may overlap with $\\text{B}$.\n- If $\\text{X}$ is a subset of $\\text{A}$ and is outside $\\text{B}$, there are two possibilities:\n\t1. $\\text{X}$ is entirely within $\\text{A}$ but does not overlap $\\text{B}$.\n\t2. $\\text{X}$ intersects only $\\text{A}$, meaning that it could either be entirely within $\\text{A}$, partially within $\\text{A}$, or extend beyond $\\text{A}$ to partially overlap $\\text{B}$.\n\nIf this relates to Boolean algebra or Venn diagrams, let me know, and I can refine the explanation further!",
+        "token_count": {
+            "prompt_tokens": 34,
+            "response_tokens": 310,
+            "total_tokens": 344
+        },
+        "llm_answer": "NOT CHOOSEN",
+        "evaluation_note": "No option was selected.",
+        "token_count_eval_mode": {
+            "prompt_tokens": 609,
+            "response_tokens": 26,
+            "total_tokens": 635
+        }
+    },
+    {
+        "question_no": "3",
+        "question_tur": "tr_xxxxx",
+        "question_eng": "en_xxxxx",
+        "topic": "Anatomy",
+        "answer": "C",
+        "has_img": "False",
+        "llm_solution": "Sure, here's the answer: Undefined",
+        "token_count": {
+            "prompt_tokens": 34,
+            "response_tokens": 11,
+            "total_tokens": 45
+        },
+        "llm_answer": "NOT CHOOSEN",
+        "evaluation_note": "The answer provided is 'Undefined', which does not correspond to any specific option.",
+        "token_count_eval_mode": {
+            "prompt_tokens": 321,
+            "response_tokens": 35,
+            "total_tokens": 356
+        }
+    }
+]

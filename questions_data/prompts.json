@@ -1,0 +1,24 @@
+{
+  "prompts": {
+    "short": {
+      "name": "short",
+      "text": "Just give me the answer."
+    },
+    "baseline": {
+      "name": "baseline",
+      "text": "Solve the question below."
+    },
+    "step_by_step": {
+      "name": "step_by_step",
+      "text": "Read the question below carefully, think step by step and solve it. After considering all the possibilities, mark the option that seems most correct to you. Consider the clinical implications and medical guidelines while solving."
+    },
+    "teacher": {
+      "name": "teacher_role",
+      "text": "Assume you are an expert medical educator with years of experience preparing physicians for specialty board examinations. Examine the question, break down its clinical components, explain the reasoning behind each potential diagnosis or treatment option, and select the most appropriate answer based on current medical evidence and best practices."
+    },
+    "self_verification": {
+      "name": "self_verification",
+      "text": "Assume you are an expert in the field of medicine. Compare and contrast all given options systematically, considering both obvious and subtle differences in clinical presentations, diagnoses, and treatment approaches. Eliminate incorrect options through logical clinical reasoning, considering current medical knowledge and evidence-based practice guidelines. Select the best remaining answer and justify your answer with specific medical rationale. After selecting your answer, review your solution and confirm whether it is consistent with current medical knowledge and logical clinical reasoning. If it is not, revise your answer. Ensure your final response aligns with standard medical protocols."
+    }
+  }
+}

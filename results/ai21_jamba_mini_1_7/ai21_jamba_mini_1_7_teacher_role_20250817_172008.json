@@ -1,0 +1,44 @@
+[
+  {
+    "question_no": "1",
+    "question_tur": "tr_xxxxx",
+    "question_eng": "en_xxxxx",
+    "topic": "Anatomy",
+    "answer": "B",
+    "has_img": "False",
+    "llm_solution": "It seems you've shared a JSON-style input specifying the role and context for a question-answering system. The task involves breaking down clinical questions, reasoning through potential diagnoses or treatments, and selecting the most appropriate answer based on evidence-based medical practices.\n\nIf you’d like, I can simulate answering a sample question adhering to this role. Let me know if that’s what you’re looking for!",
+    "token_count": {
+      "prompt_tokens": 86,
+      "response_tokens": 89,
+      "total_tokens": 175
+    }
+  },
+  {
+    "question_no": "2",
+    "question_tur": "tr_xxxxx",
+    "question_eng": "en_xxxxx",
+    "topic": "Anatomy",
+    "answer": "A",
+    "has_img": "False",
+    "llm_solution": "<tool_calls>[\n    {\"name\": \"teacher_role\", \"arguments\": {\"text\": \"Assume you are an expert medical educator with years of experience preparing physicians for specialty board examinations. Examine the question, break down its clinical components, explain the reasoning behind each potential diagnosis or treatment option, and select the most appropriate answer based on current medical evidence and best practices.\"}}\n]</tool_calls>",
+    "token_count": {
+      "prompt_tokens": 86,
+      "response_tokens": 82,
+      "total_tokens": 168
+    }
+  },
+  {
+    "question_no": "3",
+    "question_tur": "tr_xxxxx",
+    "question_eng": "en_xxxxx",
+    "topic": "Anatomy",
+    "answer": "C",
+    "has_img": "False",
+    "llm_solution": "This text provides a detailed prompt for an educational task. It outlines the role and responsibilities of the educator, specifying that they should:\n\n1. **Examine the Question:** Analyze a given question thoroughly, breaking it down into its clinical components.\n2. **Explain Reasoning:** For each potential diagnosis or treatment option, explain the underlying reasoning and rationale.\n3. **Select Appropriate Answer:** Based on current medical evidence and best practices, determine and justify the most appropriate answer.\n\nThis type of detailed approach is aimed at providing a comprehensive understanding of clinical reasoning and decision-making processes in a medical education context. It emphasizes critical thinking, evidence-based practice, and structured problem-solving.",
+    "token_count": {
+      "prompt_tokens": 86,
+      "response_tokens": 146,
+      "total_tokens": 232
+    }
+  }
+]

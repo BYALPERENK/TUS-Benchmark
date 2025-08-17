@@ -1,0 +1,32 @@
+openai/gpt-5-nano
+
+Short Prompt
+Final token statistics:
+Total prompt tokens: 78
+Total response tokens: 1514
+Total combined tokens: 1592
+
+Baseline Prompt
+Final token statistics:
+Total prompt tokens: 75
+Total response tokens: 1853
+Total combined tokens: 1928
+
+Step_By_Step Prompt
+Final token statistics:
+Total prompt tokens: 186
+Total response tokens: 2853
+Total combined tokens: 3039
+
+Teacher_Role Prompt
+Final token statistics:
+Total prompt tokens: 228
+Total response tokens: 7443
+Total combined tokens: 7671
+
+Self_Verification Prompt
+Final token statistics:
+Total prompt tokens: 399
+Total response tokens: 4330
+Total combined tokens: 4729
+

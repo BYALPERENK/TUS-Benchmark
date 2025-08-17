@@ -1,0 +1,44 @@
+[
+  {
+    "question_no": "1",
+    "question_tur": "tr_xxxxx",
+    "question_eng": "en_xxxxx",
+    "topic": "Anatomy",
+    "answer": "B",
+    "has_img": "False",
+    "llm_solution": "Could you clarify what you'd like assistance with? Are you looking for help reviewing and revising content, providing medical insights, or revising the structured approach to answering clinical questions?",
+    "token_count": {
+      "prompt_tokens": 143,
+      "response_tokens": 38,
+      "total_tokens": 181
+    }
+  },
+  {
+    "question_no": "2",
+    "question_tur": "tr_xxxxx",
+    "question_eng": "en_xxxxx",
+    "topic": "Anatomy",
+    "answer": "A",
+    "has_img": "False",
+    "llm_solution": "It seems like you've provided a structured framework or guideline for assessing medical scenarios systematically. This appears to be aimed at ensuring a thorough and evidence-based approach to medical problem-solving or case analysis. Could you clarify how you would like this formatted or used, or is there a specific question or case you'd like me to apply this framework to?",
+    "token_count": {
+      "prompt_tokens": 143,
+      "response_tokens": 73,
+      "total_tokens": 216
+    }
+  },
+  {
+    "question_no": "3",
+    "question_tur": "tr_xxxxx",
+    "question_eng": "en_xxxxx",
+    "topic": "Anatomy",
+    "answer": "C",
+    "has_img": "False",
+    "llm_solution": "It seems you are presenting instructions for a structured clinical reasoning task or an exercise designed to refine medical decision-making skills. Could you clarify the context or the specific focus of these instructions? For instance, are these meant for an educational exercise, a test, or a professional scenario? Additionally, do you need help with applying these guidelines to a particular case or scenario?",
+    "token_count": {
+      "prompt_tokens": 143,
+      "response_tokens": 74,
+      "total_tokens": 217
+    }
+  }
+]
