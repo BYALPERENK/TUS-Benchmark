@@ -130,8 +130,9 @@ Quick smoke test tip:
 ---------------------------------------------------------------------
 ARTICLE
 ---------------------------------------------------------------------
-A detailed article is available here:
-    [Article link – soon]
+An article is available here:  
+    [Turkish version](https://medium.com/@alperenkaban/tus-sorularıyla-yapay-zekâ-testi-hangi-model-doktorları-geçiyor-4ece8c476152)  
+    [English version](https://medium.com/@alperenkaban/testing-ai-with-medical-specialty-exam-questions-which-model-beats-the-doctors-a26c0a7c6167)  
 
 ## License
 
